@@ -1,6 +1,4 @@
-# Project Title
-
-Javascript Notice Task Assignemnt
+# Javascript Notice Task Assignemnt
 
 ## Requirements
 
