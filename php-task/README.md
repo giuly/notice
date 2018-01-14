@@ -1,6 +1,4 @@
-# Project Title
-
-PHP Notice Task Assignemnt
+# PHP Notice Task Assignemnt
 
 ## Requirements
 
