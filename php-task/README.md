@@ -13,6 +13,7 @@ Requirements to logic:
 
 ### Prerequisites
 
+mkdir images - you need to create 'images' folder in the root of the task, next to inedx.php file
 Nginx/Apache server and php-fpm/php
 
 ## Run
