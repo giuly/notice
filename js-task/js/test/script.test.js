@@ -28,13 +28,6 @@ var data = [{
   "regions": []
 }];
 
-describe('DataArray', function() {
-  it('should containt an array', function () {
-      expect("Maria").toEqual("Maria");
-  });
-
-});
-
 describe('Throw Error', function() {
   it('should throw an error', function() {
     var filterObject = {categoryyyy:'bal'};
